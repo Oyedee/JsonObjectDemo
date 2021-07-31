@@ -1,0 +1,21 @@
+[{
+		"name": "Hamid",
+		"address": "Gbagada",
+		"isProgrammer": true
+	},
+	{
+		"name": "PorayMan",
+		"address": "Gbagada",
+		"isProgrammer": true
+	},
+	{
+		"name": "Qidos",
+		"address": "Ajah",
+		"isProgrammer": false
+	},
+	{
+		"name": "Usman",
+		"address": "Ibadan",
+		"isProgrammer": true
+	}
+]
